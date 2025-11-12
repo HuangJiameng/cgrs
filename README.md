@@ -44,12 +44,8 @@ This dynamic suppression ensures reasoning stays concise and accurate — *think
 
 ## 📊 Experimental Summary
 
-| Benchmark | Avg. Token Reduction | Accuracy Change |
-| --------- | -------------------- | --------------- |
-| AIME24    | ↓ 25–40%             | ±0–2%           |
-| AMC23     | ↓ 30–42%             | ±0–1%           |
-| MATH500   | ↓ 20–45%             | ±0–2%           |
-| GPQA-D    | ↓ 18–36%             | ±0–1%           |
+<img width="768" height="798" alt="image" src="https://github.com/user-attachments/assets/d7975860-a521-45c1-a2d1-38d896e88503" />
+
 
 CGRS consistently achieves the best balance between length reduction and accuracy retention among efficient reasoning methods evaluated at the time of release.
 
@@ -58,13 +54,6 @@ CGRS consistently achieves the best balance between length reduction and accurac
 ## 🛠️ Coming Soon
 
 We are actively preparing the **code release** and **evaluation scripts** for public use.
-
-Planned contents:
-
-* ✅ CGRS inference module (Python API)
-* ✅ Integration examples for vLLM / HuggingFace Transformers
-* ✅ Predefined reflection trigger token sets for common tokenizers
-* ✅ Benchmark evaluation scripts
 
 Stay tuned for updates in this repository.
 
