@@ -51,14 +51,6 @@ CGRS consistently achieves the best balance between length reduction and accurac
 
 ---
 
-## 🛠️ Coming Soon
-
-We are actively preparing the **code release** and **evaluation scripts** for public use.
-
-Stay tuned for updates in this repository.
-
----
-
 ## 📚 Citation
 
 If you find this work helpful, please cite our paper:
