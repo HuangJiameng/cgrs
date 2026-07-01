@@ -1,7 +1,5 @@
 # CGRS: Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression
 
-*(Coming Soon)*
-
 ---
 
 ## 🚀 Overview
