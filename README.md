@@ -77,13 +77,3 @@ If you find this work helpful, please cite our paper:
 * **Jierun Chen**, *Huawei Technologies Co., Ltd.*
 * **Di He**, *Peking University*
 * **Lu Hou**, *Huawei Technologies Co., Ltd.*
-
----
-
-## 📅 Status
-
-> ⏳ **Repository under active preparation.**
->
-> Official code and documentation will be released after internal verification.
-> Follow the repository or star ⭐ it to get notified upon release.
-
